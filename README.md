@@ -1,2 +1,2 @@
-# recovery-quest
-Восстановление прошивки Meta/Oculus Quest 2/3s/3
+# Восстановление прошивки Meta/Oculus Quest 2/3s/3
+
