@@ -3,6 +3,8 @@
 ## Choose your language
 **English** | [`Pусский`](/README.md)
 
+# Hello
+
 >[!NOTE]
 > If for some reason your headset, for example after a firmware update in Russia (relevant for Quest 2), does not load into the OS, or there is a gray screen after the Meta logo, **maybe** this guide will help you solve this problem
 
