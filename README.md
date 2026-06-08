@@ -3,7 +3,8 @@
 >[!NOTE]
 > Если ваш шлем по каким либо причинам, например после обновление прошивки в России (актуально для Quest 2), не загружается в ОС, или после логотипа Meta серый экран **возможно** это руководство поможет вам, в решении этой проблемы.
 
-Если у вас возникли проблемы, вы можете написать мне в [![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)]
+Если у вас возникли проблемы, вы можете написать мне 
+[![telegram](https://img.shields.io/badge/chat-telegram-brightgreen.svg?logo=telegram&style=flat-square)]
 (https://t.me/neonris)
 
 ## Подготовка
