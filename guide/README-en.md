@@ -40,7 +40,7 @@ Next, select "Sideload update" using the volume buttons, then press the power bu
 
 > In the cmd window, run the following command
 ```cmd
-adb.exe sideload ./Update.zip
+adb sideload Update.zip
 ```
 The firmware process will begin, and upon completion, the helmet will reboot itself and should boot into the OS.
 
